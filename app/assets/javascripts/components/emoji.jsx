@@ -121,7 +121,7 @@ const emojiList = [
   'vayne',
   'veigar',
   'velkoz',
-  'vi',
+  'champion_vi',
   'viktor',
   'vladimir',
   'volibear',
@@ -169,7 +169,7 @@ const shortnameToImage = str => str.replace(emojione.regShortNames, shortname =>
   return `<img draggable="false" class="emojione" alt="${alt}" src="/emoji/${unicode}.svg" />`;
 });
 
-const originalToImage = str => str.replace(/:([^:]+):/g, (emoji, emojiName) => {
+const originalToImage = str => str.replace(/:([a-z_]+):/g, (emoji, emojiName) => {
   if (!emojiList.includes(emojiName)) {
     return emoji;
   }
