@@ -319,7 +319,7 @@ const json = {
   'GEN': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3741.png',
   'RNG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3762.png',
   'IG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3759.png',
-  'EDG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3759.png',
+  'EDG': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3758.png',
   'FNC': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3733.png',
   'VIT': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3738.png',
   'G2': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3734.png',
