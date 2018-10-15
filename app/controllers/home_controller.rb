@@ -51,6 +51,7 @@ class HomeController < ApplicationController
       current_account: current_account,
       token: current_session.token,
       admin: Account.find_local(Setting.site_contact_username),
+      admin_sub: Account.find_local(Setting.site_contact_username_sub),
     }
   end
 
