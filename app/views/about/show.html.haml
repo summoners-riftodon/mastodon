@@ -111,6 +111,7 @@
               %div.contact
                 %h3= t 'about.administered_by'
                 = account_link_to(@instance_presenter.contact_account, link_to(t('about.learn_more'), about_more_path, class: 'button button-alternative'))
+                = account_link_to(@instance_presenter.contact_account_sub)
 
             = render 'features'
 

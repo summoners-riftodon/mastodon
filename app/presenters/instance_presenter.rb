@@ -17,6 +17,10 @@ class InstancePresenter
     Account.find_local(Setting.site_contact_username.gsub(/\A@/, ''))
   end
 
+  def contact_account_sub
+    Account.find_local(Setting.site_contact_username_sub.gsub(/\A@/, ''))
+  end
+
   def user_count
     Rails.cache.fetch('user_count') { User.confirmed.count }
   end

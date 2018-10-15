@@ -33,6 +33,7 @@
         %strong= t 'about.administered_by'
 
       = account_link_to(@instance_presenter.contact_account)
+      = account_link_to(@instance_presenter.contact_account_sub)
 
       - if @instance_presenter.site_contact_email.present?
         %p.contact-widget__mail
