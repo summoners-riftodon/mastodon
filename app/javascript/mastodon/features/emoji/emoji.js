@@ -115,7 +115,7 @@ const lolJson = {
   ':Sona:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Sona.png',
   ':Soraka:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Soraka.png',
   ':Swain:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Swain.png',
-  ':Sylas': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Sylas.png',
+  ':Sylas:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Sylas.png',
   ':Syndra:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Syndra.png',
   ':TahmKench:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/TahmKench.png',
   ':Taliyah:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/champion/Taliyah.png',
