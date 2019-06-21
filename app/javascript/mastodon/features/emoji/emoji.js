@@ -177,17 +177,21 @@ const lolJson = {
   'EyeOfTheHerald': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3513.png',
   'GhostPoro': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3520.png',
 
-  // Japan Esports Icons
-  // 'DFM:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3295.png',
-  ':PGM:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3296.png',
-  ':USG:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3297.png',
-  ':7H:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3298.png',
-  ':RJ:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3299.png',
-  ':V3:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3300.png',
-  ':BC:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3547.png',
-  ':SZ:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3516.png',
-  ':CGA:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3515.png',
-  ':BE:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/1196.png',
+  // Japan Esports 2019 Icons
+  'DFM': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3993.png',
+  'USG': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3994.png',
+  'V3': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3995.png',
+  'CGA': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3996.png',
+  'BC': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3997.png',
+  'AXZ': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3998.png',
+  'SG': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3999.png',
+  'RJ': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/4000.png',
+
+  // Old Teams
+  'PGM': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3296.png',
+  '7H': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3298.png',
+  'SZ': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/3516.png',
+  'BE': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/profileicon/1196.png',
 
   // WCS2018 Icons
   ':KT:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3744.png',
