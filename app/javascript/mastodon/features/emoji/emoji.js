@@ -165,7 +165,17 @@ const lolJson = {
   ':Smite:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/spell/SummonerSmite.png',
   ':Teleport:': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/spell/SummonerTeleport.png',
 
-  ':TearOfTheGoddess:': '//ddragon.leagueoflegends.com/cdn/7.4.1/img/item/3070.png',
+  // Items
+  'TearOfTheGoddess': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3070.png',
+  'Ohmwrecker': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3056.png',
+  'SlySackOfGold': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/2319.png',
+  'LiandrysTorment': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3151.png',
+  'WardingTotem': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3340.png',
+  'FarsightAlteration': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3363.png',
+  'OracleLens': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3364.png',
+  'ControlWard': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/2055.png',
+  'EyeOfTheHerald': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3513.png',
+  'GhostPoro': '//ddragon.leagueoflegends.com/cdn/9.12.1/img/item/3520.png',
 
   // Japan Esports Icons
   // 'DFM:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3295.png',
