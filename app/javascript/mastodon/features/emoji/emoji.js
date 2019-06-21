@@ -214,7 +214,7 @@ const lolJson = {
   ':GMB:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3746.png',
   ':INF:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3751.png',
   ':SUP:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3770.png',
-  ':DFM:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3747.png',
+  ':DFMWCS2018:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3747.png',
   ':KLG:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3731.png',
   ':DW:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3769.png',
   ':ASC:': '//ddragon.leagueoflegends.com/cdn/8.19.1/img/profileicon/3739.png'
