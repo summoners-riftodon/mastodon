@@ -6,7 +6,7 @@ import React from 'react';
 // お知らせ一覧
 // HTMLはそのままレンダリングされるので注意して書くこと
 const announcements = [
-  'リフトドンpick\'emランキングへの参加や閲覧は <a href="http://pickem.lolesports.com/share/series/5/user/4218331/leaderboards/list/invite/JID81DkbL0noJIXBZMph/682247" target="_blank">こちら</a> から！'
+  'リフトドンpick\'emランキング2020への参加や閲覧は <a href="https://pickem.lolesports.com/share/series/7/user/4067186/leaderboards/list/invite/s2p7sj3Ik7ToVU5Wfo0P/923519" target="_blank">こちら</a> から！'
 ];
 
 const ulStyle = {
